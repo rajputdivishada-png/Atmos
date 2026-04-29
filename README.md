@@ -27,13 +27,6 @@ Three interlocked innovations sit on top of a full-featured weather dashboard:
 | **Micro-Climate Fingerprint** | Crowd-sourced, GPS-pinned heat map showing block-by-block real-feel variance with recency decay weighting |
 | **Predictive Life Advisor** | Claude AI synthesises current conditions, your personal history, and a 3-day forecast into a structured daily briefing — best outdoor window, clothing tip, risk level |
 
----
-
-## Screenshots
-
-> *(Add your own screenshots here)*
-
----
 
 ## Features
 

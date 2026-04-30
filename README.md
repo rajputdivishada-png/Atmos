@@ -2,6 +2,13 @@
 A real-time weather intelligence system providing environmental insights, heatwave alerts, and interactive dashboards using API-based data.
 > Overview-
 This module is part of The Smart City Platform, focused on delivering accurate weather and environmental intelligence to support smarter urban decisions.
+
+## 🌐 Parent Project
+
+This repository is a module of the **Smart City Project**.
+
+🔗 Main Repository: https://github.com/Jesh-27-ghost/Smart-City-.git
+
 It fetches real-time weather data, processes it, and presents it through a modern, data-driven dashboard UI.
 # 🌩️ Weather Intelligence Dashboard
 
